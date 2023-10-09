@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: #777575;
+}
+
+div {
+    width: 130px;
+    height: 130px;
+    background-color: #302f2f;
+
+}
+
+.conteiner {
+    display: grid;
+    grid-template-rows: 20%;
+}
+
+.div2 { 
+    margin-top: 0;
+    margin-left: 140px;
+}
+
+.div3 {
+    margin-top: 0px;
+    margin-left: 140px;
+}

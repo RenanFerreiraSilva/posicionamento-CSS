@@ -1,0 +1,37 @@
+body {
+    background-color: #919191;
+    position: absolute;
+}
+
+main{
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
+
+div {
+    background-color: #444444;
+    width: 200px;
+    height: 200px;
+    position: fixed;
+}
+
+.div1 {
+    left: 0;
+    top: 0;  
+}
+
+.div2 {
+    right: 0;
+    top: 0;
+}
+
+.div3 {
+    bottom: 0;
+    right: 0;
+}
+
+.div4 {
+    bottom: 0;
+    left: 0;
+}
