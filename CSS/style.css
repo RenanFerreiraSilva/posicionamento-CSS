@@ -1,0 +1,49 @@
+body{
+    background-color: #919191;
+}
+
+.div1 {
+    width: 700px;
+    height: 700px;
+    background: #0417c4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.div2 {
+    width: 80%;
+    height: 80%;
+    display: flex;
+    background-color: red;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.div3 {
+    width: 80%;
+    height: 80%;
+    background-color:black ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div4{
+    width: 50%;
+    height: 50%;
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div5 {
+    width: 40%;
+    height: 40%;
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
